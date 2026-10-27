@@ -1,0 +1,12 @@
+<svg width="189" height="48" viewBox="0 0 189 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Brand Geometric Growth Icon -->
+  <g>
+    <path d="M15.4901 17.4878L10.925 0.83195L23.8228 11.8027L15.4901 17.4878Z" fill="#C0C0C0"/>
+    <path d="M34.8728 21.9165L46.3289 30.9872L31.3447 30.4208L34.8728 21.9165Z" fill="#C0C0C0"/>
+    <path d="M23.0203 40.57L20.2872 30.2374L19.8946 28.7532L18.3615 28.6727L7.21347 28.0871L34.9105 10.2084L23.0203 40.57Z" fill="#1CB08F"/>
+    <path d="M23.4088 33.8019L30.5693 15.5176L13.8264 26.3252L21.5383 26.7303L23.4088 33.8019ZM22.6319 47.338L18.251 30.776L0.600483 29.8488L39.2517 4.89904L22.6319 47.338Z" fill="#018065"/>
+  </g>
+  <!-- FeedGrow Typography -->
+  <text x="52" y="27" font-family="'DM Sans', 'Inter', -apple-system, sans-serif" font-size="23" font-weight="800" fill="#040A08" letter-spacing="-0.5">Feed<tspan fill="#018065">Grow</tspan></text>
+  <text x="53" y="39" font-family="'DM Sans', 'Inter', -apple-system, sans-serif" font-size="8.5" font-weight="700" fill="#56615E" letter-spacing="1.4">CAREER PLATFORM</text>
+</svg>
